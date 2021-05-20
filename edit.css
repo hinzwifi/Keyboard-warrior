@@ -5,6 +5,7 @@
 }
 .bg-secondary1 {
   background-color: #232323;
+  border-radius: 0px 0px 50px 50px;
 }
 .text{
   color:#89867e;
